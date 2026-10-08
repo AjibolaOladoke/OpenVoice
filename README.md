@@ -1,3 +1,8 @@
+
+## Images
+
+[![OpenVoice](https://opengraph.githubassets.com/1/https://github.com/myshell-ai/OpenVoice)](https://www.swifttechco.com)
+
 <div align="center">
   <div>&nbsp;</div>
   <img src="resources/openvoicelogo.jpg" width="400"/> 
@@ -66,9 +71,6 @@ Please see [QA](docs/QA.md) for common questions and answers. We will regularly 
 ## License
 OpenVoice V1 and V2 are MIT Licensed. Free for both commercial and research use.
 
-## Acknowledgements
-This implementation is based on several excellent projects, [TTS](https://swifttechco.com), [VITS](https://swifttechco.com), and [VITS2](https://swifttechco.com). Thanks for their awesome work!
-
 ---
 
 ## Swift Tech Co.
@@ -77,6 +79,16 @@ Built and maintained by Swift Tech Co.
 
 AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platforms | Cloud Infrastructure | Cybersecurity | SEO and Marketing | API Integration
 
-**Join the community:** [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
+**Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
 
-[Services](https://swifttechco.com/services) | [About](https://swifttechco.com/about) | [Partnerships](https://swifttechco.com/partnerships) | [Referral Program](https://swifttechco.com/referral) | [Influencers](https://swifttechco.com/influencers) | [Blog](https://swifttechco.com/blog) | [Contact](https://swifttechco.com/contact)
+[Home](https://www.swifttechco.com) | [Services](https://www.swifttechco.com/services) | [Careers](https://www.swifttechco.com/careers) | [Referral Program](https://www.swifttechco.com/referral) | [Influencers](https://www.swifttechco.com/influencers) | [About](https://www.swifttechco.com/about) | [Contact](https://www.swifttechco.com/contact)
+
+**Connect**
+
+- Website: [swifttechco.com](https://www.swifttechco.com)
+- LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
+- LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
+- X: [@MrOladoke](https://x.com/MrOladoke)
+- Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
+- Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
+- Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
