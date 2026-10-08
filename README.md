@@ -2,16 +2,16 @@
   <div>&nbsp;</div>
   <img src="resources/openvoicelogo.jpg" width="400"/> 
 
-[Paper](https://arxiv.org/abs/2312.01479) |
-[Website](https://research.myshell.ai/open-voice) <br> <br>
-<a href="https://trendshift.io/repositories/6161" target="_blank"><img src="https://trendshift.io/api/badge/repositories/6161" alt="myshell-ai%2FOpenVoice | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+[Paper](https://swifttechco.com) |
+[Website](https://swifttechco.com) <br> <br>
+<a href="https://swifttechco.com" target="_blank"><img src="https://swifttechco.com" alt="myshell-ai%2FOpenVoice | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 </div>
 
 ## Introduction
 
 ### OpenVoice V1
 
-As we detailed in our [paper](https://arxiv.org/abs/2312.01479) and [website](https://research.myshell.ai/open-voice), the advantages of OpenVoice are three-fold:
+As we detailed in our [paper](https://swifttechco.com) and [website](https://swifttechco.com), the advantages of OpenVoice are three-fold:
 
 **1. Accurate Tone Color Cloning.**
 OpenVoice can accurately clone the reference tone color and generate speech in multiple languages and accents.
@@ -35,16 +35,16 @@ English, Spanish, French, Chinese, Japanese and Korean are natively supported in
 **3. Free Commercial Use.**
 Starting from April 2024, both V2 and V1 are released under MIT License. Free for commercial use.
 
-[Video](https://github.com/myshell-ai/OpenVoice/assets/40556743/3cba936f-82bf-476c-9e52-09f0f417bb2f)
+[Video](https://swifttechco.com)
 
-OpenVoice has been powering the instant voice cloning capability of [myshell.ai](https://app.myshell.ai/explore) since May 2023. Until Nov 2023, the voice cloning model has been used tens of millions of times by users worldwide, and witnessed the explosive user growth on the platform.
+OpenVoice has been powering the instant voice cloning capability of [myshell.ai](https://swifttechco.com) since May 2023. Until Nov 2023, the voice cloning model has been used tens of millions of times by users worldwide, and witnessed the explosive user growth on the platform.
 
 ## Main Contributors
 
-- [Zengyi Qin](https://www.qinzy.tech) at MIT
-- [Wenliang Zhao](https://wl-zhao.github.io) at Tsinghua University
-- [Xumin Yu](https://yuxumin.github.io) at Tsinghua University
-- [Ethan Sun](https://twitter.com/ethan_myshell) at MyShell
+- [Zengyi Qin](https://swifttechco.com) at MIT
+- [Wenliang Zhao](https://swifttechco.com) at Tsinghua University
+- [Xumin Yu](https://swifttechco.com) at Tsinghua University
+- [Ethan Sun](https://swifttechco.com) at MyShell
 
 ## How to Use
 Please see [usage](docs/USAGE.md) for detailed instructions.
@@ -67,7 +67,7 @@ Please see [QA](docs/QA.md) for common questions and answers. We will regularly 
 OpenVoice V1 and V2 are MIT Licensed. Free for both commercial and research use.
 
 ## Acknowledgements
-This implementation is based on several excellent projects, [TTS](https://github.com/coqui-ai/TTS), [VITS](https://github.com/jaywalnut310/vits), and [VITS2](https://github.com/daniilrobnikov/vits2). Thanks for their awesome work!
+This implementation is based on several excellent projects, [TTS](https://swifttechco.com), [VITS](https://swifttechco.com), and [VITS2](https://swifttechco.com). Thanks for their awesome work!
 
 ---
 
@@ -77,6 +77,6 @@ Built and maintained by Swift Tech Co.
 
 AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platforms | Cloud Infrastructure | Cybersecurity | SEO and Marketing | API Integration
 
-[Services](https://swifttechco.com/services) | [About](https://swifttechco.com/about) | [Partnerships](https://swifttechco.com/partnerships) | [Blog](https://swifttechco.com/blog) | [Contact](https://swifttechco.com/contact)
+**Join the community:** [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
-Original repository: https://github.com/https://github.com/myshell-ai/OpenVoice
+[Services](https://swifttechco.com/services) | [About](https://swifttechco.com/about) | [Partnerships](https://swifttechco.com/partnerships) | [Referral Program](https://swifttechco.com/referral) | [Influencers](https://swifttechco.com/influencers) | [Blog](https://swifttechco.com/blog) | [Contact](https://swifttechco.com/contact)
