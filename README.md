@@ -1,7 +1,7 @@
 
 ## Images
 
-[![OpenVoice](https://opengraph.githubassets.com/1/https://github.com/myshell-ai/OpenVoice)](https://www.swifttechco.com)
+[![OpenVoice](https://opengraph.githubassets.com/1/myshell-ai/OpenVoice)](https://www.swifttechco.com)
 
 <div align="center">
   <div>&nbsp;</div>
@@ -9,7 +9,7 @@
 
 [Paper](https://swifttechco.com) |
 [Website](https://swifttechco.com) <br> <br>
-<a href="https://swifttechco.com" target="_blank"><img src="https://swifttechco.com" alt="myshell-ai%2FOpenVoice | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+<a href="https://swifttechco.com" target="_blank"></a>
 </div>
 
 ## Introduction
