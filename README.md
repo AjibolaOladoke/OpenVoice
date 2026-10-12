@@ -6,7 +6,7 @@ We keep a working index for product and engineering, and OpenVoice is the entry 
 
 ## Images
 
-[![OpenVoice](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![OpenVoice](images/preview.png)](https://github.com/Swift-Tech-Co/OpenVoice)
 
 ## Introduction
 
@@ -81,13 +81,21 @@ Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: swifttechco.com
+- Website: https://github.com/Swift-Tech-Co/OpenVoice
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
