@@ -96,3 +96,11 @@ Compiled and maintained from upstream [myshell-ai/OpenVoice](https://github.com/
 ---
 
 Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
+
+## Sources
+
+Compiled and maintained from upstream [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
