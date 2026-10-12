@@ -1,22 +1,18 @@
+# OpenVoice
+
+## What This Is
+
+We keep a working index for product and engineering, and OpenVoice is the entry that collects our notes, examples and fixes. It reflects how Swift Tech Co. actually uses this in builds and client work.
 
 ## Images
 
-[![OpenVoice](https://opengraph.githubassets.com/1/myshell-ai/OpenVoice)](https://www.swifttechco.com)
-
-<div align="center">
-  <div>&nbsp;</div>
-  <img src="resources/openvoicelogo.jpg" width="400"/> 
-
-[Paper](https://swifttechco.com) |
-[Website](https://swifttechco.com) <br> <br>
-<a href="https://swifttechco.com" target="_blank"></a>
-</div>
+[![OpenVoice](images/preview.png)](https://github.com/Swift-Tech-Co)
 
 ## Introduction
 
 ### OpenVoice V1
 
-As we detailed in our [paper](https://swifttechco.com) and [website](https://swifttechco.com), the advantages of OpenVoice are three-fold:
+As we detailed in our paper and website, the advantages of OpenVoice are three-fold:
 
 **1. Accurate Tone Color Cloning.**
 OpenVoice can accurately clone the reference tone color and generate speech in multiple languages and accents.
@@ -40,16 +36,16 @@ English, Spanish, French, Chinese, Japanese and Korean are natively supported in
 **3. Free Commercial Use.**
 Starting from April 2024, both V2 and V1 are released under MIT License. Free for commercial use.
 
-[Video](https://swifttechco.com)
+Video
 
-OpenVoice has been powering the instant voice cloning capability of [myshell.ai](https://swifttechco.com) since May 2023. Until Nov 2023, the voice cloning model has been used tens of millions of times by users worldwide, and witnessed the explosive user growth on the platform.
+OpenVoice has been powering the instant voice cloning capability of myshell.ai since May 2023. Until Nov 2023, the voice cloning model has been used tens of millions of times by users worldwide, and witnessed the explosive user growth on the platform.
 
 ## Main Contributors
 
-- [Zengyi Qin](https://swifttechco.com) at MIT
-- [Wenliang Zhao](https://swifttechco.com) at Tsinghua University
-- [Xumin Yu](https://swifttechco.com) at Tsinghua University
-- [Ethan Sun](https://swifttechco.com) at MyShell
+- Zengyi Qin at MIT
+- Wenliang Zhao at Tsinghua University
+- Xumin Yu at Tsinghua University
+- Ethan Sun at MyShell
 
 ## How to Use
 Please see [usage](docs/USAGE.md) for detailed instructions.
@@ -81,14 +77,22 @@ AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platf
 
 **Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
 
-[Home](https://www.swifttechco.com) | [Services](https://www.swifttechco.com/services) | [Careers](https://www.swifttechco.com/careers) | [Referral Program](https://www.swifttechco.com/referral) | [Influencers](https://www.swifttechco.com/influencers) | [About](https://www.swifttechco.com/about) | [Contact](https://www.swifttechco.com/contact)
+Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: [swifttechco.com](https://www.swifttechco.com)
+- Website: swifttechco.com
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
